@@ -1,4 +1,4 @@
-# A random forest exploration of spotify data
+# Supervised learning models with spotify data using CatBoost and ScikitLearn
 
 Training data downloaded from: https://www.kaggle.com/datasets/thedevastator/spotify-tracks-genre-dataset/data
 
